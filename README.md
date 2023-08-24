@@ -25,19 +25,4 @@
 1. Crea una base de datos MySQL llamada `restaurant_db`.
 2. Actualiza las credenciales de la base de datos en `backend/src/main/resources/application.properties`.
 
-## Contribución 🤝
 
-¡Únete al equipo! Si deseas contribuir:
-
-1. Haz un fork y crea una rama: `git checkout -b nueva-funcionalidad`
-2. Realiza cambios y commitea: `git commit -am 'Agregar nueva funcionalidad'`
-3. Sube tus cambios: `git push origin nueva-funcionalidad`
-4. Crea un Pull Request.
-
-## Licencia 📜
-
-Este proyecto está bajo la Licencia MIT.
-
----
-
-¡Disfruta usando RestaurantSprint! Si tienes alguna pregunta, no dudes en abrir un issue.
